@@ -1,20 +1,41 @@
-name: Fanza Daily Crawl
+# ==========================
+#  File: .github/workflows/daily-crawl.yml
+# ==========================
+name: Daily FANZA Crawl
 
+# 1. 触发条件
 on:
   schedule:
-    - cron: '30 14 * * *'   # UTC 14:30
-  workflow_dispatch:
+    # 每天 UTC 14:30（日本 23:30）执行
+    - cron: '00 7 * * *'
+  workflow_dispatch:        # 手动触发按钮
+
+# 2. 权限：写仓库 + 写内容
+permissions:
+  contents: write           # push 结果需要写权限
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      # 2-1 检出代码（默认放在 GITHUB_WORKSPACE）
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2-2 安装 Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install -r requirements.txt
-      - name: run
+
+      # 2-3 安装依赖
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 2-4 运行爬虫
+      - name: Run crawler
         working-directory: ${{ github.workspace }}
         env:
           FANZA_COOKIE: ${{ secrets.FANZA_COOKIE }}
@@ -25,10 +46,23 @@ jobs:
           MAX_WORKERS: ${{ vars.MAX_WORKERS }}
         run: python -m src.main
 
-      - name: upload results
+      # 2-5 提交结果（若无变化则跳过）
+      - name: Commit & push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add HTML DATE CID H1
+          # 仅当有改动才提交
+          git diff --staged --quiet || (
+            git commit -m "bot: update crawling results $(date +%F)"
+            git push
+          )
+
+      # 2-6 可选：上传 Artifacts（与提交并行）
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: fanza-${{ github.run_id }}
+          name: fanza-${{ github.run_number }}
           path: |
             ${{ github.workspace }}/HTML
             ${{ github.workspace }}/DATE
