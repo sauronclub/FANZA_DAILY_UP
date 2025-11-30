@@ -2,7 +2,7 @@ name: Fanza Daily Crawl
 
 on:
   schedule:
-    - cron: '00 7 * * *'   # UTC 7:00
+    - cron: '* 7 * * *'   # UTC 7:00
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,7 @@ jobs:
           python-version: '3.11'
       - run: pip install -r requirements.txt
       - name: run
+        working-directory: ${{ github.workspace }}
         env:
           FANZA_COOKIE: ${{ secrets.FANZA_COOKIE }}
           JP_IP_LIST_URL: ${{ vars.JP_IP_LIST_URL }}
@@ -22,7 +23,9 @@ jobs:
           GQL_URL: ${{ vars.GQL_URL }}
           OUTPUT_ROOT: ${{ runner.temp }}/fanza
           MAX_WORKERS: ${{ vars.MAX_WORKERS }}
-        run: |
-          cd $GITHUB_WORKSPACE
-          python -m pip install -r requirements.txt
-          python -m src.main
+        run: python -m src.main
+      - uses: actions/upload-artifact@v4
+        with:
+          name: fanza-${{ github.run_id }}
+          path: ${{ runner.temp }}/fanza
+          retention-days: 30
