@@ -22,9 +22,7 @@ jobs:
           GQL_URL: ${{ vars.GQL_URL }}
           OUTPUT_ROOT: ${{ runner.temp }}/fanza
           MAX_WORKERS: ${{ vars.MAX_WORKERS }}
-        run: python -m src.cli
-      - uses: actions/upload-artifact@v4
-        with:
-          name: fanza-${{ github.run_id }}
-          path: ${{ runner.temp }}/fanza
-          retention-days: 30
+        run: |
+          cd $GITHUB_WORKSPACE
+          python -m pip install -r requirements.txt
+          python -m src.cli
