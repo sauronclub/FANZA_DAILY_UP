@@ -1,10 +1,25 @@
 import os, logging, time
 from datetime import datetime
+from pathlib import Path
 from dotenv import load_dotenv
 from src.core import storage
 from src.core.session import build_session
 from src.fanza import auth, ranking, metadata
 
+# ---------- 新增：预创建四目录 ----------
+REPO_ROOT = Path(__file__).parent.parent   # 仓库根
+for d in ("HTML", "DATE", "CID", "H1"):
+    (REPO_ROOT / d).mkdir(exist_ok=True)
+# ---------------------------------------
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s",
+)
+load_dotenv()
+
+RANKING_URL = os.getenv("RANKING_URL")
+H1_FILE     = "H1/h1.txt"
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
@@ -46,4 +61,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
