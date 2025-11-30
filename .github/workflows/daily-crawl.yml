@@ -21,11 +21,11 @@ jobs:
           JP_IP_LIST_URL: ${{ vars.JP_IP_LIST_URL }}
           RANKING_URL: ${{ vars.RANKING_URL }}
           GQL_URL: ${{ vars.GQL_URL }}
-          OUTPUT_ROOT: ${{ runner.temp }}/fanza
+          OUTPUT_ROOT: ${{ github.workspace }}
           MAX_WORKERS: ${{ vars.MAX_WORKERS }}
         run: python -m src.main
       - uses: actions/upload-artifact@v4
         with:
           name: fanza-${{ github.run_id }}
-          path: ${{ runner.temp }}/fanza
+          path: ${{ github.workspace }}/fanza
           retention-days: 30
