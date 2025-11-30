@@ -13,3 +13,10 @@ def write(path: str, data: dict | str, indent=2):
         else:
             json.dump(data, f, ensure_ascii=False, indent=indent)
     log.debug("saved -> %s", full)
+
+# ↓↓↓ 新增
+def read(path: str) -> str:
+    """返回文件文本内容；不存在抛 FileNotFoundError"""
+    full = os.path.join(ROOT, path)
+    with open(full, encoding="utf-8") as f:
+        return f.read()
