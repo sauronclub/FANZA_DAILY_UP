@@ -1,0 +1,65 @@
+2025-12-08 03:19:50,162 - INFO - ============================================================
+2025-12-08 03:19:50,163 - INFO -  FANZA每日榜单爬虫启动 - GitHub Actions版本
+2025-12-08 03:19:50,163 - INFO - ============================================================
+2025-12-08 03:19:50,163 - INFO - 检测到GitHub Actions环境
+2025-12-08 03:19:50,163 - INFO - 初始化爬虫，输出目录: ./output
+2025-12-08 03:19:50,164 - INFO - 正在创建会话并进行年龄验证...
+2025-12-08 03:19:50,904 - INFO - 检测到年龄验证页面，正在处理...
+2025-12-08 03:19:50,905 - INFO - 正在提交年龄验证...
+2025-12-08 03:19:51,500 - INFO - 年龄验证成功
+2025-12-08 03:19:51,501 - INFO - 上次集計期間: 无记录
+2025-12-08 03:19:51,501 - INFO - 
+>>> 第 1 次内容检查
+2025-12-08 03:19:51,501 - INFO - 正在获取每日榜单内容 (尝试 1/3)...
+2025-12-08 03:19:52,357 - INFO - 成功获取内容，状态码: 200
+2025-12-08 03:19:52,360 - INFO - 页面标题: 【毎日更新】日間作品ランキング1～20位 - エロ動画・アダルトビデオ - FANZA動画
+2025-12-08 03:19:52,360 - INFO - 页面集計期間: 集計期間：2025/12/06 15:00 ～ 2025/12/07 15:00
+2025-12-08 03:19:52,360 - INFO - 提取到格式化日期: 2025-12-07
+2025-12-08 03:19:52,360 - INFO - 当前集計期間: 集計期間：2025/12/06 15:00 ～ 2025/12/07 15:00
+2025-12-08 03:19:52,361 - INFO - HTML文件已保存: ./output/HTML/fanza_daily_20251208031952.html
+2025-12-08 03:19:52,362 - INFO - 🎉 检测到新内容，开始处理...
+2025-12-08 03:19:52,364 - INFO - 解析到 20 部电影
+2025-12-08 03:19:52,365 - INFO - 电影列表已保存: ./output/DATE/2025-12-07.json
+2025-12-08 03:19:52,365 - INFO - 正在获取电影 h_1711astr00030 的详情... (1/20)
+2025-12-08 03:19:52,644 - ERROR - 获取电影 h_1711astr00030 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:53,145 - INFO - 正在获取电影 1nhkb00026 的详情... (2/20)
+2025-12-08 03:19:53,269 - ERROR - 获取电影 1nhkb00026 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:53,769 - INFO - 正在获取电影 sone00991 的详情... (3/20)
+2025-12-08 03:19:53,889 - ERROR - 获取电影 sone00991 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:54,390 - INFO - 正在获取电影 mida00438 的详情... (4/20)
+2025-12-08 03:19:54,514 - ERROR - 获取电影 mida00438 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:55,014 - INFO - 正在获取电影 sone00768 的详情... (5/20)
+2025-12-08 03:19:55,136 - ERROR - 获取电影 sone00768 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:55,637 - INFO - 正在获取电影 mizd00418 的详情... (6/20)
+2025-12-08 03:19:55,760 - ERROR - 获取电影 mizd00418 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:56,261 - INFO - 正在获取电影 1sdjs00321 的详情... (7/20)
+2025-12-08 03:19:56,388 - ERROR - 获取电影 1sdjs00321 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:56,889 - INFO - 正在获取电影 midv00949 的详情... (8/20)
+2025-12-08 03:19:57,330 - ERROR - 获取电影 midv00949 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:57,831 - INFO - 正在获取电影 tchb00055 的详情... (9/20)
+2025-12-08 03:19:57,955 - ERROR - 获取电影 tchb00055 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:58,456 - INFO - 正在获取电影 hoiz00144 的详情... (10/20)
+2025-12-08 03:19:58,580 - ERROR - 获取电影 hoiz00144 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:59,080 - INFO - 正在获取电影 mdvr00388 的详情... (11/20)
+2025-12-08 03:19:59,204 - ERROR - 获取电影 mdvr00388 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:19:59,705 - INFO - 正在获取电影 ipzz00770 的详情... (12/20)
+2025-12-08 03:19:59,829 - ERROR - 获取电影 ipzz00770 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:20:00,329 - INFO - 正在获取电影 lulu00345 的详情... (13/20)
+2025-12-08 03:20:00,456 - ERROR - 获取电影 lulu00345 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:20:00,956 - INFO - 正在获取电影 mdvr00392 的详情... (14/20)
+2025-12-08 03:20:01,079 - ERROR - 获取电影 mdvr00392 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:20:01,579 - INFO - 正在获取电影 13dsvr01798 的详情... (15/20)
+2025-12-08 03:20:01,705 - ERROR - 获取电影 13dsvr01798 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:20:02,206 - INFO - 正在获取电影 snos00008 的详情... (16/20)
+2025-12-08 03:20:02,329 - ERROR - 获取电影 snos00008 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:20:02,830 - INFO - 正在获取电影 midv00946 的详情... (17/20)
+2025-12-08 03:20:02,956 - ERROR - 获取电影 midv00946 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:20:03,457 - INFO - 正在获取电影 13dsvr01786 的详情... (18/20)
+2025-12-08 03:20:03,584 - ERROR - 获取电影 13dsvr01786 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:20:04,085 - INFO - 正在获取电影 sone00751 的详情... (19/20)
+2025-12-08 03:20:04,209 - ERROR - 获取电影 sone00751 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:20:04,709 - INFO - 正在获取电影 mkmp00659 的详情... (20/20)
+2025-12-08 03:20:04,833 - ERROR - 获取电影 mkmp00659 详情失败: 422 Client Error: unknown for url: https://api.video.dmm.co.jp/graphql
+2025-12-08 03:20:05,334 - INFO - ✅ 处理完成！成功获取 0/20 部电影详情
+2025-12-08 03:20:05,334 - INFO - 📅 数据存储日期：2025-12-07
+2025-12-08 03:20:05,334 - INFO - 达到最大检查次数，内容无变化，任务结束
