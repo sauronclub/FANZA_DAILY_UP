@@ -1,0 +1,43 @@
+name: FANZA Daily Ranking
+
+on:
+  schedule:
+    # 每天东京时间15:05分运行
+    - cron: '5 15 * * *' 
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
+      - name: Run crawler
+        env:
+          GRAPHQL_API_URL: ${{ secrets.GRAPHQL_API_URL }}
+          HEADER_KEY_VALUE_URL: ${{ secrets.HEADER_KEY_VALUE_URL }}
+          PAYLOAD_DAILY_URL: ${{ secrets.PAYLOAD_DAILY_URL }}
+          HEADER_KEY: ${{ secrets.HEADER_KEY }}
+        run: python main.py
+        
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add TOP/*.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update ranking $(date +%Y-%m-%d)"
+          git push
