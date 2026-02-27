@@ -1,4 +1,4 @@
-name: FANZA Daily Ranking
+name: Daily Ranking
 
 on:
   schedule:
