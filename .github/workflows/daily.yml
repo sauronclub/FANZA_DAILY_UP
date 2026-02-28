@@ -2,8 +2,8 @@ name: Daily Ranking
 
 on:
   schedule:
-    # 每天东京时间15:05分运行
-    - cron: '5 15 * * *' 
+    # 每天北京时间15:05分运行
+    - cron: '7 05 * * *' 
   workflow_dispatch:
 
 jobs:
