@@ -53,13 +53,20 @@ def compare_items(new_items, old_items):
     if new_ids == old_ids:
         return False, []
 
+    id_to_item = {item.get("id"): item for item in old_items if item.get("id")}
+
     changes = []
     for i, (new_id, old_id) in enumerate(zip(new_ids, old_ids)):
         if new_id != old_id:
+            old_item = id_to_item.get(old_id, {})
+            old_content = old_item.get("content", {})
+            new_content = new_items[i].get("content", {})
             changes.append({
                 "rank": i + 1,
                 "old_id": old_id,
-                "new_id": new_id
+                "old_title": old_content.get("title", "未知标题"),
+                "new_id": new_id,
+                "new_title": new_content.get("title", "未知标题")
             })
 
     return True, changes
