@@ -31,6 +31,7 @@ jobs:
           HEADER_KEY_VALUE_URL: ${{ secrets.HEADER_KEY_VALUE_URL }}
           PAYLOAD_DAILY_URL: ${{ secrets.PAYLOAD_DAILY_URL }}
           HEADER_KEY: ${{ secrets.HEADER_KEY }}
+          COOKIE: ${{ secrets.COOKIE }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
         run: python main.py
 
