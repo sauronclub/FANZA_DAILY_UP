@@ -18,7 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
         with:
-          fetch-depth: 0          # 重要：保证能正常 git pull
+          fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
@@ -28,9 +28,7 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          echo "Dependencies installed successfully"
+        run: pip install -r requirements.txt
 
       - name: Run crawler
         env:
@@ -41,25 +39,22 @@ jobs:
           COOKIE: ${{ secrets.COOKIE }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
         run: python main.py
+        timeout-minutes: 15     # 防止无限等待
 
       - name: Commit and push results
+        if: success()           # 只有成功才执行
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          echo "=== Current status before pull ==="
-          git status
-          
-          git pull origin main --rebase || echo "Pull failed, continuing anyway..."
+          git pull origin main --rebase || echo "Pull warning, continuing..."
           
           git add TOP/*.json
           
           if git diff --quiet && git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit."
           else
             git commit -m "Update ranking $(date +%Y-%m-%d)"
-            echo "Changes committed"
+            git push --force-with-lease
+            echo "Successfully pushed updates."
           fi
-          
-          git push
-          echo "Push completed"
