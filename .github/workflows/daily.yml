@@ -8,16 +8,19 @@ on:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
+    # 推荐加上这个环境变量，强制使用 Node 24 并减少警告
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7     # ← 升级到 v7（推荐）
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6   # ← 升级到 v6
         with:
           python-version: '3.11'
           cache: 'pip'
