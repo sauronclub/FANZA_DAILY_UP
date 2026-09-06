@@ -1,0 +1,2726 @@
+[
+  {
+    "id": "sqte00683",
+    "rank": 1,
+    "content": {
+      "title": "いつでも使えるオナホ後輩 花守夏歩",
+      "releaseStatus": "SEMI_NEW_RELEASE",
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 36090,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "sqte00683dl7",
+            "priority": 200,
+            "regularPriceInclusiveTax": 1880,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "sqte00683dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1780,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "sqte00683dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1680,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "sqte00683",
+            "priority": 500,
+            "regularPriceInclusiveTax": 580,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 290,
+        "lowestRegularPriceInclusiveTax": 580,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1099813",
+          "name": "花守夏歩",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 16,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-16.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 17,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-17.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 18,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-18.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 19,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-19.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 20,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sqte00683/sqte00683jp-20.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "snos00008",
+    "rank": 2,
+    "content": {
+      "title": "目を覚ますと下着姿のグラドルとホテルで二人きり…慌てる僕を横目に誘惑してくる芸能人一体酔っている間に何があった！？ 紫堂るい",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 22123,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "snos00008dl7",
+            "priority": 200,
+            "regularPriceInclusiveTax": 2680,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "snos00008dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1980,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "snos00008dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1480,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "snos00008",
+            "priority": 500,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1102441",
+          "name": "紫堂るい",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00008/snos00008jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "savr01135",
+    "rank": 3,
+    "content": {
+      "title": "【VR】交姦キメセクNTR 都内某所。最愛の彼女と、興味本位で参加した怪しげなパ―ティー。見るだけのはずだったのに…。生ハメ スワッピング レズ etc. 何でもありな無法地帯の乱痴気騒ぎに飲み込まれてしまった話。",
+      "releaseStatus": "NEW_RELEASE",
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 5851,
+      "isExclusiveDelivery": true,
+      "contentType": "VR",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "savr01135dl8",
+            "priority": 100,
+            "regularPriceInclusiveTax": 2180,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "savr01135dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1600,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "savr01135dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1120,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 560,
+        "lowestRegularPriceInclusiveTax": 1120,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1064143",
+          "name": "沙月恵奈",
+          "__typename": "Actress"
+        },
+        {
+          "id": "1064154",
+          "name": "月野かすみ",
+          "__typename": "Actress"
+        },
+        {
+          "id": "1099301",
+          "name": "桜ゆの",
+          "__typename": "Actress"
+        },
+        {
+          "id": "1075066",
+          "name": "胡桃さくら",
+          "__typename": "Actress"
+        },
+        {
+          "id": "1073977",
+          "name": "宮西ひかる",
+          "__typename": "Actress"
+        },
+        {
+          "id": "1075675",
+          "name": "末広純",
+          "__typename": "Actress"
+        },
+        {
+          "id": "1069702",
+          "name": "天馬ゆい",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 16,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/savr01135/savr01135jp-16.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "snos00275",
+    "rank": 4,
+    "content": {
+      "title": "河北彩花の尊い美顔を心おきなく拝みたい。",
+      "releaseStatus": "NEW_RELEASE",
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 13456,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "snos00275dl7",
+            "priority": 200,
+            "regularPriceInclusiveTax": 3380,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "snos00275dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 2680,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "snos00275dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 2180,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 1090,
+        "lowestRegularPriceInclusiveTax": 2180,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1044864",
+          "name": "河北彩花（河北彩伽）",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00275/snos00275jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "mimk00268",
+    "rank": 5,
+    "content": {
+      "title": "友達の義母 実写版 「もっとすごいの…見せてあげよっか？」親友とその義母との禁断の関係をこっそり覗き見してしまった僕は… JULIA",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 9776,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "mimk00268dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1680,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mimk00268dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1180,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mimk00268",
+            "priority": 500,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1004672",
+          "name": "JULIA",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00268/mimk00268jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "mkmp00660",
+    "rank": 6,
+    "content": {
+      "title": "いつでもどこでも呼びつけたらすぐに駆け付ける 抱き心地最高の都合のいい地味セフレ 羽月乃蒼",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 64207,
+      "isExclusiveDelivery": false,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "mkmp00660dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 950,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mkmp00660dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 580,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mkmp00660",
+            "priority": 500,
+            "regularPriceInclusiveTax": 300,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 150,
+        "lowestRegularPriceInclusiveTax": 300,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1084337",
+          "name": "羽月乃蒼",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 16,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-16.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 17,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-17.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 18,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-18.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 19,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-19.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 20,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mkmp00660/mkmp00660jp-20.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "idbd00967",
+    "rank": 7,
+    "content": {
+      "title": "長浜みつり初ベスト12タイトル12時間36本番SPECIAL",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 16414,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "idbd00967dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1180,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "idbd00967dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 780,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "idbd00967",
+            "priority": 500,
+            "regularPriceInclusiveTax": 300,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 150,
+        "lowestRegularPriceInclusiveTax": 300,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1089578",
+          "name": "長浜みつり",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/idbd00967/idbd00967jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "h_1721fzaa00001",
+    "rank": 8,
+    "content": {
+      "title": "ザーメンをぶっかけられた顔射直後のスケベ顔で敏感チ〇ポをひょっとこバキュームするおしゃぶり大好き素人娘たちのご奉仕フェラチオ",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 15124,
+      "isExclusiveDelivery": false,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "h_1721fzaa00001dl7",
+            "priority": 200,
+            "regularPriceInclusiveTax": 1980,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "h_1721fzaa00001dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1480,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "h_1721fzaa00001dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 980,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "h_1721fzaa00001",
+            "priority": 500,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 16,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-16.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 17,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-17.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 18,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-18.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 19,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-19.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 20,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/h_1721fzaa00001/h_1721fzaa00001jp-20.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "mdvr00390",
+    "rank": 9,
+    "content": {
+      "title": "【VR】ただいまっ！くのひなっ！パワーアップした小悪魔イタズラ誘惑 性欲マシマシ発情ヒロインと学園中の男子が嫉妬するほどエロがっちゃった！！ 九野ひなの",
+      "releaseStatus": "NEW_RELEASE",
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 7002,
+      "isExclusiveDelivery": true,
+      "contentType": "VR",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "mdvr00390dl8",
+            "priority": 100,
+            "regularPriceInclusiveTax": 1780,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mdvr00390dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1280,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mdvr00390dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 980,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mdvr00390rp",
+            "priority": 600,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1078407",
+          "name": "九野ひなの",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mdvr00390/mdvr00390jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "mida00547",
+    "rank": 10,
+    "content": {
+      "title": "イッてもイッてもイカされガクブルエクスタシー！はじめての追撃絶頂 井上もも",
+      "releaseStatus": "NEW_RELEASE",
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 15757,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "mida00547dl7",
+            "priority": 200,
+            "regularPriceInclusiveTax": 3380,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mida00547dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 2680,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mida00547dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 2180,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 1090,
+        "lowestRegularPriceInclusiveTax": 2180,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1107481",
+          "name": "井上もも",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00547/mida00547jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "dvaj00740",
+    "rank": 11,
+    "content": {
+      "title": "夜勤ナースに寝静まるカーテンの中アヘ吐息かかる顔近スパイダー騎乗位でこっそり腰振られながら囁かれる看護淫語ASMRでマ○コがグチョヌチャ卑猥音を奏でるまで何度も中出し介抱付き入院性活【男の音・雑音全カット！プレイ音全集中の超没入サウンド】 月野かすみ",
+      "releaseStatus": "SEMI_NEW_RELEASE",
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 9103,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "dvaj00740dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1780,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "dvaj00740dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1270,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "dvaj00740",
+            "priority": 500,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1064154",
+          "name": "月野かすみ",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 16,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-16.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 17,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-17.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 18,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-18.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 19,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-19.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 20,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/dvaj00740/dvaj00740jp-20.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "mida00530",
+    "rank": 12,
+    "content": {
+      "title": "担任教師の僕は生徒の誘惑に負けて放課後ラブホで何度も、何度も、セックスしてしまった… 純白彩永",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 8964,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "mida00530dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1680,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mida00530dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1180,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mida00530",
+            "priority": 500,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1102740",
+          "name": "純白彩永",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 16,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-16.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 17,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-17.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 18,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-18.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 19,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mida00530/mida00530jp-19.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "sivr00483",
+    "rank": 13,
+    "content": {
+      "title": "【VR】隣に越してきたモラハラ夫から身を隠す訳アリ巨乳人妻‘めいさん’とたった一度だけ身を寄せ合い貪り合ったアノ夜 鷲尾めい",
+      "releaseStatus": "NEW_RELEASE",
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 5346,
+      "isExclusiveDelivery": true,
+      "contentType": "VR",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "sivr00483dl8",
+            "priority": 100,
+            "regularPriceInclusiveTax": 2280,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "sivr00483dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1780,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "sivr00483dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1480,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 740,
+        "lowestRegularPriceInclusiveTax": 1480,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1060824",
+          "name": "鷲尾めい",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/sivr00483/sivr00483jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "1jera00006",
+    "rank": 14,
+    "content": {
+      "title": "職場で知り合った美人パートの長瀬麻美さんは人生で一度も精子を飲んだことが無いみたいで、ラブホ飲みで距離感縮めてSEXしたらゴックンしてくれたので旦那が帰宅するPM22:00まで何度も精飲と中出しをした。",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 36590,
+      "isExclusiveDelivery": false,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "1jera00006dl7",
+            "priority": 200,
+            "regularPriceInclusiveTax": 2580,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "1jera00006dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1880,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "1jera00006dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1380,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "1jera00006",
+            "priority": 500,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "14754",
+          "name": "長瀬麻美",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 16,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-16.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 17,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-17.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 18,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-18.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 19,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-19.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 20,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1jera00006/1jera00006jp-20.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "snos00260",
+    "rank": 15,
+    "content": {
+      "title": "タダマンナース Lカップ看護師が患者に弱み握られおっぱい吐精処理、乱暴SEXされ放題 木村愛心",
+      "releaseStatus": "NEW_RELEASE",
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 9679,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "snos00260dl7",
+            "priority": 200,
+            "regularPriceInclusiveTax": 3380,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "snos00260dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 2680,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "snos00260dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 2180,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 1090,
+        "lowestRegularPriceInclusiveTax": 2180,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1102327",
+          "name": "木村愛心",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/snos00260/snos00260jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "mfyd00099",
+    "rank": 16,
+    "content": {
+      "title": "TAMEIKE20周年特別企画ー。夢実かなえホンモノザーメンごっくん104発",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 9297,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "mfyd00099dl7",
+            "priority": 200,
+            "regularPriceInclusiveTax": 2380,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mfyd00099dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1680,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mfyd00099dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1180,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mfyd00099",
+            "priority": 500,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1089774",
+          "name": "夢実かなえ",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mfyd00099/mfyd00099jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "royd00290",
+    "rank": 17,
+    "content": {
+      "title": "ノーが言えない。家政婦さんの無自覚な誘惑 ホスピタリティ抜群 射精後の精子も丁寧にお掃除 ゴム無デカケツ生ハメOK！ 千咲ちな",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 11586,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "royd00290dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1680,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "royd00290dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 1180,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "royd00290",
+            "priority": 500,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1104926",
+          "name": "千咲ちな",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/royd00290/royd00290jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "mbf00059",
+    "rank": 18,
+    "content": {
+      "title": "【FANZA独占】【配信専用】MAX-Aダイヤモンドセレクション THE LEGEND3.5 小倉奈々 オグナナの単体作品には収録されていないプレミアSEX13発お届けスペシャルBEST ～お宝映像300分～",
+      "releaseStatus": "SEMI_NEW_RELEASE",
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 6672,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "mbf00059dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1280,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mbf00059dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 780,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mbf00059",
+            "priority": 500,
+            "regularPriceInclusiveTax": 500,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 250,
+        "lowestRegularPriceInclusiveTax": 500,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1005928",
+          "name": "小倉奈々",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 11,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-11.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 12,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-12.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 13,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-13.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 14,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-14.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 15,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-15.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 16,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-16.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 17,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-17.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 18,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-18.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 19,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-19.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 20,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mbf00059/mbf00059jp-20.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "mimk00196",
+    "rank": 19,
+    "content": {
+      "title": "憧れのひとはもう終わり！実写版 3年間憧れ続けた先生が、友人に食われた…",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 35032,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "mimk00196dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1180,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mimk00196dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 780,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "mimk00196",
+            "priority": 500,
+            "regularPriceInclusiveTax": 300,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 150,
+        "lowestRegularPriceInclusiveTax": 300,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/mimk00196/mimk00196jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  },
+  {
+    "id": "ebwh00179",
+    "rank": 20,
+    "content": {
+      "title": "都会で童貞を馬鹿にされ帰省したら僕を可愛がる母性丸出し巨乳お義姉ちゃんたちとの筆おろしと甘々SEXで7発射精させてもらった 莉々はるか 宍戸里帆",
+      "releaseStatus": null,
+      "packageImage": {
+        "mediumUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179ps.jpg",
+        "largeUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179pl.jpg",
+        "__typename": "PackageImage"
+      },
+      "wishlistCount": 19540,
+      "isExclusiveDelivery": true,
+      "contentType": "TWO_DIMENSION",
+      "pricing": {
+        "sale": {
+          "id": "half",
+          "name": "50％OFFキャンペーン第16弾",
+          "endAt": "2026-09-07T00:59:59Z",
+          "__typename": "PPVSale"
+        },
+        "productPricing": [
+          {
+            "id": "ebwh00179dl6",
+            "priority": 300,
+            "regularPriceInclusiveTax": 1180,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "ebwh00179dl",
+            "priority": 400,
+            "regularPriceInclusiveTax": 780,
+            "__typename": "PPVProductPricing"
+          },
+          {
+            "id": "ebwh00179",
+            "priority": 500,
+            "regularPriceInclusiveTax": 300,
+            "__typename": "PPVProductPricing"
+          }
+        ],
+        "lowestEffectivePriceInclusiveTax": 150,
+        "lowestRegularPriceInclusiveTax": 300,
+        "hasMultiplePrices": true,
+        "__typename": "PPVContentPricing"
+      },
+      "actresses": [
+        {
+          "id": "1094002",
+          "name": "莉々はるか",
+          "__typename": "Actress"
+        },
+        {
+          "id": "1075010",
+          "name": "宍戸里帆",
+          "__typename": "Actress"
+        }
+      ],
+      "sampleImages": [
+        {
+          "number": 1,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-1.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 2,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-2.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 3,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-3.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 4,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-4.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 5,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-5.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 6,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-6.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 7,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-7.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 8,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-8.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 9,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-9.jpg",
+          "__typename": "ContentSampleImage"
+        },
+        {
+          "number": 10,
+          "largeImageUrl": "https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ebwh00179/ebwh00179jp-10.jpg",
+          "__typename": "ContentSampleImage"
+        }
+      ],
+      "hasSampleMovie": true,
+      "__typename": "PPVContentSummary"
+    },
+    "__typename": "PPVContentDailyRankingItem"
+  }
+]
